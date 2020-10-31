@@ -1,0 +1,15 @@
+{
+    "name": "gaoussou/elephant-project",
+    "authors": [
+        {
+            "name": "gaston223",
+            "email": "g.coulibalyy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "require": {}
+}
